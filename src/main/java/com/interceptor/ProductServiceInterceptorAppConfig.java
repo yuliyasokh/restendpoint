@@ -1,4 +1,4 @@
-package com;
+package com.interceptor;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
