@@ -1,5 +1,6 @@
-package com;
+package com.controller;
 
+import com.Product;
 import com.exception.ProductNotfoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
